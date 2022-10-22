@@ -1,1 +1,3 @@
-# cnn-pooling-layers-benchmark
+# Convolutional Neural Networks: A benchmark of their Pooling Layer variants
+
+One of the essential layers in most Convolutional Neural Networks (CNNs) is the pooling layer which is placed right after the convolution layer, effectively downsampling the input and reducing the computational power required. Different pooling methods have been proposed over the years, each with its own advantages and disadvantages, rendering them a better fit for different applications. We introduce a benchmark between many of these methods that highlights an optimal choice for different scenarios depending on each project's individual needs, whether it's details retention, performance or overall computational speed requirements.
